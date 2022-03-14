@@ -13,3 +13,4 @@
 introduction of javascript -- (console) https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/exercises/console
 other cheatcodes -- https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet
 conditionals---https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-control-flow/cheatsheet
+functions-arroe,return,anonymous....etc----https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions/cheatsheet
